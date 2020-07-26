@@ -1,5 +1,5 @@
 using System;
-using Inteligenics;
+using RoboticGenetics;
 using Xunit;
 
 namespace NeuralNetTest

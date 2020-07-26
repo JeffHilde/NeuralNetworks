@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Inteligenics
+namespace RoboticGenetics
 {
 	public interface ITrain
 	{
